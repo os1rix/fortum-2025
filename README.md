@@ -49,5 +49,5 @@ Run all cells sequentially. The notebook:
 
 ## Model Weights
 
-- `2d_weights.txt` - 48-hour model weights
+- `48hr_weights.txt` - 48-hour model weights
 - `12m_weights/` - 12 monthly model files (lightgbm_model_1.txt through lightgbm_model_12.txt)
